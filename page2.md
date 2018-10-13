@@ -1,7 +1,7 @@
 <h1>HTML Part 2 Homework</h1>
 <h2>13<sup>th</sup> of October 2018</h2>
-<p> </p>
-<img src="https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg#/media/File:Clouds_over_the_Atlantic_Ocean.jpg" alt= "CLOUDS" >
+<p></p>
+<img src="https://goo.gl/images/s3zGoi" alt="Grumpy Cat" height="42" width="42">
 <p></p>
 <dl>
   <dt>Past Participle </dt>
@@ -36,5 +36,7 @@
 </table>
 <p></p>
 <html lang="es">
-Hola. Me llamo Rebecca. Me gusta viajar. Este año, Fui a Chipre y España con mis amigas. Lo pasamos bien tiempo, comimos comida buenísimo y pasamos mucho tiempo a la playa.
+  <p></p>
+  <p></p>
+<h3> Hola. Me llamo Rebecca. Me gusta viajar. Este año, Fui a Chipre y España con mis amigas. Lo pasamos bien tiempo, comimos comida buenísimo y pasamos mucho tiempo a la playa.</h3>
 </html>
