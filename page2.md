@@ -36,8 +36,8 @@
   </tr>
 </table>
 <p></p>
-<html lang="es">
-  <p></p>
-  <p></p>
-<h4> Hola. Me llamo Rebecca. Me gusta viajar. Este año, Fui a Chipre y España con mis amigas. Lo pasamos un buen tiempo, comimos comida buenísimo y pasamos mucho tiempo a la playa.</h4>
+<p lang="es">Hola.Me llamo Rebecca. Me gusta viajar. Este año, Fui a Chipre y España con mis amigas. Lo pasamos un buen tiempo, comimos comida buenísimo y pasamos mucho tiempo a la playa.</p>
 </html>
+
+
+
