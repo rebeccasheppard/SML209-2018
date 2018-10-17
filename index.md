@@ -1,4 +1,4 @@
-<h1>Welcome</h1>
+<h1><p style="color:blue;">Welcome</h1>
 <p>To Rebecca's Page</p>
 <h3> HTML coding</h3>
 <hr>
