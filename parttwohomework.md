@@ -3,7 +3,7 @@
 <p></p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
 title="View Image Source">
-<img style=width:70%;border:1px solid red;"
+<img style="width:70%; border:1px solid red;"
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
 alt="Clouds over the Atlantic Ocean">
 </a>
