@@ -1,8 +1,10 @@
 <h1>HTML Part 2 Homework</h1>
 <h2>13<sup>th</sup> of October 2018</h2>
 <p></p>
-<a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"title="View Image Source">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"alt="Clouds over the Atlantic Ocean">
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
+title="View Image Source">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
+alt="Clouds over the Atlantic Ocean">
 </a>
 
 <p></p>
