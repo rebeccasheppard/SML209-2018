@@ -4,8 +4,6 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
    title="View Image Source">
   
-
-<img class="imgLeft"
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg">
   
   </a>
