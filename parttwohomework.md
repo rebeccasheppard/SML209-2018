@@ -5,7 +5,7 @@
    title="View Image Source">
   
 
-<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
+<img class="imgLeft"
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg">
   
   </a>
