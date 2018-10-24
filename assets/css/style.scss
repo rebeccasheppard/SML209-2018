@@ -7,10 +7,21 @@ float:left;
 margin-right:10px;
 margin-bottom:10px;
 width:70%; 
-vertical-align:top; 
+vertical-align: top; 
 border: 1px solid red;"
 }
 
 h1 {
   color:pink;
+}
+
+.main-content h1 {
+  color : blue;
+}
+
+.page-header {
+	color: #fff;
+	text-align: center;
+	background-color: #75159966;
+	background-image: linear-gradient(120deg, #bdc9d5, #9f369a);
 }
