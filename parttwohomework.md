@@ -1,11 +1,9 @@
 <h1>HTML Part 2 Homework</h1>
 <h2>13<sup>th</sup> of October 2018</h2>
+
 <p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
-   title="View Image Source">
-  
-
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="image of biogeography of Europe"img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg">
+   title="View Image Source"> <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="image of biogeography of Europe">
   
   </a>
 
