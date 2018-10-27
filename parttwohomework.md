@@ -7,7 +7,7 @@
   
   </a>
 
-The water cycle has no starting point. But, we'll begin in the oceans, since that is where most of Earth's water exists. The sun, which drives the water cycle, heats water in the oceans. Some of it evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere, along with water from evapotranspiration, which is water transpired from plants and evaporated from the soil. 
+The water cycle has no starting point. But, we'll begin in the oceans, since that is where most of Earth's water exists. The sun, which drives the water cycle, heats water in the oceans. Some of it evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere, along with water from evapotranspiration. 
 
 </p>
 
