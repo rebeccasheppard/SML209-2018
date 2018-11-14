@@ -7,6 +7,6 @@
 Scroll down below to access an additional vocabulary exercise...
 
 <p>
-  <a style="float:right;" href="[practice].html">Go to Exercise</a>
+  <a style="float:right;" href="practice.html">Go to Exercise</a>
   </p>
   <div style="clear:both;"> </div>
