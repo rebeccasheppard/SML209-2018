@@ -7,6 +7,6 @@ Scroll down after this exercise to access an additional activity...
 
 
 <p>
-  <a style="float:left;" href="practice.html">Go to Exercise</a>
+  <a style="float:left;" href="practice.html" class="btn2">Go to Exercise</a>
   </p>
   <div style="clear:both;"> </div>
