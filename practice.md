@@ -7,6 +7,6 @@
 <br>
 
 <p>
-  <a style="float:left;" href="vocabulary.html">Go to Exercise</a>
+  <a style="float:left;" href="vocabulary.html">Go Back</a>
   </p>
   <div style="clear:both;"> </div>
