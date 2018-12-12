@@ -1,4 +1,4 @@
-<h1><p style="color:blue;">Welcome</p></h1>
+<h1><p style="color:blue;">Welcome Beginner</p></h1>
 <p>Learning basic Spanish</p>
 
 <hr>
