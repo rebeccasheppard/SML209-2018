@@ -4,8 +4,6 @@
 <img class="irc_mi" class="imgLeft" 
 src="https://www.fluentu.com/blog/spanish/wp-content/uploads/sites/2/2014/05/learn-spanish-vocabulary-reddit-memes.jpg" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="425" height="425" style="margin-top: 84px;" alt="Image result for learning spanish memes">
 
-<h1>Section 1</h1>
-
 <a href="https://hub.qmplus.qmul.ac.uk/artefact/blog/view/index.php?id=558965">Visit my QMplus Hub page</a>
 <hr>
 <h1>Section 2</h1>
