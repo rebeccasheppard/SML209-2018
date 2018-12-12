@@ -24,8 +24,10 @@ Contemplating whether to learn Spanish...? Here are a list of reasons why learni
   </ul></p>
  
  <p style="clear:both;"></p>
- 
-  
+ <hr>
+ <h3>Convinced it is right for you...?</h3>
+Click <a href="https://rebeccasheppard.github.io/SML209-2018/infonspanishlangnculture.html">here</a> for a direct link to more information on Spanish language and culture
+<hr>  
  
 <a href="https://hub.qmplus.qmul.ac.uk/artefact/blog/view/index.php?id=558965">Visit my QMplus Hub page</a>
 <hr>
