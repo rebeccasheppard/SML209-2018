@@ -12,7 +12,7 @@ Contemplating whether to learn Spanish...? Here are a list of reasons why learni
 <br>
 <br>
 <br>
-
+<br>
   
 <p><em>Why should I bother learning Spanish: </em> </p>
 <ul>
