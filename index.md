@@ -14,7 +14,7 @@ Contemplating whether to learn Spanish...? Here are a list of reasons why learni
 <br>
 
   
-<p><em>Here are a list of reasons: </em> </p>
+<p><em>Why should I bother learning Spanish: </em> </p>
 <ul>
   <li>Open the doors to communicate with the 400 million Spanish speakers of the World</li>
   <li>There are 21 countries in the world that have Spanish as an official language. Knowing the language will enable you to communicate in many different spanish speaking countries all over the world.</li>
