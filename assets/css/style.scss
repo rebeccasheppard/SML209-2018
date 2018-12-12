@@ -35,6 +35,18 @@ h1 {
     background-image: linear-gradient(120deg, #f8f8f8, #9f3636);
 }
 
+.btn {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: rgb(86, 51, 51);
+    background-color: rgba(255,255,255,0.08);
+    border-color: rgba(255,255,255,0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+	font-weight: bold;
+}
 
 
 .btn2 {
