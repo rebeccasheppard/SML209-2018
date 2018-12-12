@@ -26,7 +26,8 @@ Contemplating whether to learn Spanish...? Here are a list of reasons why learni
  <p style="clear:both;"></p>
  <hr>
  <h3><p style="color:orange;">Convinced it is right for you...?</p></h3>
-Click <a href="https://rebeccasheppard.github.io/SML209-2018/infonspanishlangnculture.html">here</a> for a direct link to more information on Spanish language and culture
+Click <a href="https://rebeccasheppard.github.io/SML209-2018/infonspanishlangnculture.html">here</a> for a direct link to more information on Spanish language and culture.
+<p></p>
 If you are wanting to learn some basic vocabulary and phrases straight away, scroll to the top of the page and click on basic vocabulary and phrases.
 <hr>  
 
