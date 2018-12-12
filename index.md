@@ -14,7 +14,7 @@ Contemplating whether to learn Spanish...? Here are a list of reasons why learni
 <br>
 <br>
 <br>
-<br>
+  
 <p><em>Here are a list of reasons: </em> </p>
 <ul>
   <li>Open the doors to communicate with the 400 million Spanish speakers of the World</li>
