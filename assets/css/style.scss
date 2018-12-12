@@ -1,6 +1,8 @@
 ---
 ---
 @import "{{ site.theme }}";
+/*import google font*/
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
 
 .imgLeft {
 float:left;
@@ -13,7 +15,10 @@ border-width: 10px;
 border-color: pink;
 }
 
-
+/*set font for site*/
+body {
+	font-family: 'Gamja Flower', cursive;
+}
 
 h1 {
   color:white;
