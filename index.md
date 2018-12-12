@@ -30,5 +30,4 @@ Click <a href="https://rebeccasheppard.github.io/SML209-2018/infonspanishlangncu
 <p></p>
 If you are wanting to learn some basic vocabulary and phrases straight away, click <a href="#top">Top</a> to direct you to the selection of different pages.
 
-<hr>  
 
