@@ -1,4 +1,4 @@
-<h1><p style="color:blue;">Welcome Beginner</p></h1>
+<h1><p style="color:orange;">Welcome Beginner</p></h1>
 <p>Here starts your journey of learning Spanish. This site will provide you with an introduction to Spanish by offering the chance to learn basic phrases and vocabulary and other activities such as reading and listening in the target language.</p>
 
 <p> 
