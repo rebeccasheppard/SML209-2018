@@ -8,9 +8,11 @@ src="https://www.fluentu.com/blog/spanish/wp-content/uploads/sites/2/2014/05/lea
 Contemplating whether to learn Spanish...? Here are a list of reasons why learning Spanish as your second language can be of great use in the future. 
 <p><em>Here are a list of reasons: </em> </p>
 <ul>
-  <li>Do reading for accounting.</li>
-  <li>Practice grammar for Spanish.</li>
-  <li>Make tea.</li>
+  <li>Open the doors to communicate with the 400 million Spanish speakers of the World</li>
+  <li>There are 21 countries in the world that have Spanish as an official language. Knowing the language will enable you to communicate in many different spanish speaking countries all over the world.</li>
+  <li>Improve your knowledge and understanding of your own language. Since Latin roots are the basis of so many English words, especially scientific and technical words, knowledge of Spanish will help English speakers, also improving their understanding of the words in their own language.</li>
+  <li>Improve your communication skills and confidence</li>
+  <li>Expand your knowledge in Spanish culture and literature</li>
   </ul></p>
  
  <p style="clear:both;"></p>
