@@ -1,6 +1,8 @@
+<body style="background-color:powderblue;">
+
 <h2> <p style="color:orange;">Where is the Spanish language spoken? </h2>
 <p></p>
-<p>
+</body>
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Hispanophone_global_world_map_language_2.svg#/media/File:Hispanophone_global_world_map_language_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hispanophone_global_world_map_language_2.svg/1200px-Hispanophone_global_world_map_language_2.svg.png" alt="Hispanophone global world map language 2.svg"></a>
 
