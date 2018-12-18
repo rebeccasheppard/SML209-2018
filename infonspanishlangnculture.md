@@ -1,4 +1,4 @@
-<body style="background-color:powderblue;">
+<body style="background-color:#e4e4e4;">
 
 <h2><p style="color:orange;">Where is the Spanish language spoken?</p></h2>
 <p></p>
