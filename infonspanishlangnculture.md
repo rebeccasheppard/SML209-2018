@@ -27,6 +27,7 @@ Listed below are the 21 countries:
 <li>Spain </li>
 <li>Uruguay </li>
 <li>Venezuela </li>
+  <li>Ecuador</li>
 </ol>
 <br>
 <br>
