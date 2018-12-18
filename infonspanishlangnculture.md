@@ -1,32 +1,11 @@
-<h1>HTML Part 2 Homework</h1>
-<h2>13<sup>th</sup> of October 2018</h2>
-
-<p>
-<a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg"
-   title="View Image Source"> <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg" alt="image of Clouds" >
-  
-  </a>
-
-The water cycle has no starting point. But, we'll begin in the oceans, since that is where most of Earth's water exists. The sun, which drives the water cycle, heats water in the oceans. Some of it evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere, along with water from evapotranspiration. 
-
-</p>
-
-<p></p>
-<p></p>
-<p></p>
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<dl>
-   <p></p>
-   <br>
-   <br>
-   <br>
-<dt>Past Participle </dt>
-  <dd>The form of a verb, typically ending in -ed in English, which is used in forming perfect and passive tenses and sometimes as an adjective, e.g. looked in have you looked?, lost in lost property.</dd>
-  <dt>Gerund </dt> 
-  <dd>A verb form which functions as a noun, in Latin ending in -ndum (declinable), in English ending in -ing (e.g. asking in do you mind my asking you?).</dd>
-  <dt>Idiom </dt>
-  <dd>A group of words established by usage as having a meaning not deducible from those of the individual words (e.g. over the moon, see the light).</dd>
+
+<br>
+<br>
+<br>
+<br>
 </dl>
 <p></p>
 <table>
