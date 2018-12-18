@@ -1,6 +1,6 @@
 <body style="background-color:powderblue;">
 
-<h2> <p style="color:orange;">Where is the Spanish language spoken? </h2>
+<h2><p style="color:orange;">Where is the Spanish language spoken?</p></h2>
 <p></p>
 </body>
 
