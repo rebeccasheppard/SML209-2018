@@ -1,13 +1,15 @@
-<body style="background-color:#e4e4e4;">
+
 
 <h2><p style="color:orange;">Where is the Spanish language spoken?</p></h2>
 <p></p>
-</body>
+
+
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Hispanophone_global_world_map_language_2.svg#/media/File:Hispanophone_global_world_map_language_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hispanophone_global_world_map_language_2.svg/1200px-Hispanophone_global_world_map_language_2.svg.png" alt="Hispanophone global world map language 2.svg"></a>
-
-You may be wondering whether learning Spanish is beneficial. It is a common myth that very little of the human population speak the Spanish language. However this is not true. In fact 21 countries in the world, as shown above also on the map, speak Spanish.
 </p>
+<p></p>
+You may be wondering whether learning Spanish is beneficial. It is a common myth that very little of the human population speak the Spanish language. However this is not true. In fact 21 countries in the world, as shown above also on the map, speak Spanish.
+
 
 Listed below are the 21 countries: 
 <ol>
