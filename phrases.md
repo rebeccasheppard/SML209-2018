@@ -5,5 +5,6 @@ This page will teach you a selection of basic phrases.
      <img class="imgLeft"
 src="https://pics.me.me/im-learning-spanish-starter-pack-erre-con-erre-cigarro-erre-32413559.png"
      alt="Spanish, Translation, and World I'm learning Spanish">
-     </p>
+     Scroll down to view a selection of tutorials and exercises to learn some useful phrases
+</p>
      
