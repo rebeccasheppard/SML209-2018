@@ -10,7 +10,8 @@ src="https://pics.me.me/im-learning-spanish-starter-pack-erre-con-erre-cigarro-e
   <br>
   <br>
   <br>
-  <br>
+  <p> <h5> Click through the slides to discover some basic, everyday Spanish phrases </h5> <iframe src="https://h5p.org/h5p/embed/392678" width="700" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  </p>
   <br>
   <h3> Press the play button and work through the interactive video to discover useful Spanish phrases you could use in a restaurant</h3>
   <iframe src="https://h5p.org/h5p/embed/392547" width="960" height="674" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
