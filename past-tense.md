@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>Yo</td>
-    <td>étd> 
+    <td>é</td> 
     <td>í</td>
    <td>í</td>
   </tr>
@@ -45,7 +45,6 @@
   <td>ieron</td>
   </tr>
   </table>
-</body>
   <p>
   <a style="float:left;" href="vocabulary.html" class="btn2">Click to go Back to grammar page</a>
   </p>
