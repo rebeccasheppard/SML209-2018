@@ -95,7 +95,7 @@ Words that end in consonants (except “d,” “z” and the “ión” family)
  <li>El corazón (heart)</li>
  </ul>
  <p></p>
- </p>
- <h5><p style="color:orange;">This is the complete summary of all the gender articles and endings you need to know. To practice your endings complete the exercises below. The only way to learn is to keep on practising 👍 </p></h5>
+
+ <h4><p style="color:orange;">This is the complete summary of all the gender articles and endings you need to know. To practice your endings complete the exercises below. The only way to learn is to keep on practising 👍 </p></h4>
  <hr>
  
