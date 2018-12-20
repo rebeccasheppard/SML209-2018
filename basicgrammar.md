@@ -127,7 +127,7 @@ So let’s start by going through each of the six different subjects with the fo
 <li>correr (to run)</li>
 <li>partir (to leave)</li>
 </ul>
-<p lang="es"</p>
+
 <table style="width:100%">
   <tr>
     <th>Pronouns</th>
@@ -173,7 +173,7 @@ So let’s start by going through each of the six different subjects with the fo
  </tr>
 </table>
 <h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
-<p lang="es"
+
 <table style="width:100%">
   <tr>
    <th>Pronouns</th>
@@ -218,5 +218,6 @@ So let’s start by going through each of the six different subjects with the fo
   <td>ieron</td>
  </tr>
 </table>
-<h2><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h2>
+<h3><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h3>
+<p></p>
 *INSERT BUTTON TO EXERCISES*
