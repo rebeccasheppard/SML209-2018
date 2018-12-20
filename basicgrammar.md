@@ -19,7 +19,9 @@ However, when looking at words such as 'el libro' the book or 'la manzana' the a
 Therefore a common method, such as the one shown below, is used:
 By looking at the word endings, it makes it easier for language learners to use the correct gender for different words.
 <p></p>
-<em>The “La” Words (Feminine)</em>
+<h4>"La" or "el" means "The" and "una" or "un" means "a" or "an"</h4>
+<p></p>
+<em>The “La” or "una" Words (Feminine)</em>
 <p></p>
 Words that end in “a,” “d,” “z,” “ión” and “umbre” are usually feminine.
 <p></p>
