@@ -4,12 +4,13 @@
 src="https://i.pinimg.com/originals/83/0e/12/830e12c691a8769183c18a3e6396352f.jpg" alt="Image result for learning spanish grammar cartoon"
 alt="Image result for learning spanish grammar cartoon">
 Learning grammar in Spanish can be a challenge. However, going through it step by step can make it easier. Scroll through this page to learn some basic grammar rules.
-<p lang="es"> If you are wondering what the image on the left signifies, it is highlighting the importance of one key grammar aspect - 'accents'! The first word 'el cambio' which means 'the change', whereas the second word 'él cambió' means 'he changed', which is the simple past tense, thus implying the importance of using the correct grammar in Spanish. 💡💡💡 </p>
+<p></p>
+If you are wondering what the image on the left signifies, it is highlighting the importance of one key grammar aspect - 'accents'! The first word 'el cambio' which means 'the change', whereas the second word 'él cambió' means 'he changed', which is the simple past tense, thus implying the importance of using the correct grammar in Spanish. 💡💡💡
  <div style="clear:both;"> </div>
  <h4><p style="color:orange;">Word Articles - Masculine and Feminine Pronouns</p></h4>
 The first basic step of learning grammar in the Spanish language is to consolidate yourself with the masculine and feminine articles of nouns.
 I will now show a step to step guide of how to match the right 'gender article' to the corresponding noun.
-<p lang="es"> For living beings such as animals and humans it is easy to assign the correct gender article to the noun. Let's look at this example: 
+For living beings such as animals and humans it is easy to assign the correct gender article to the noun. Let's look at this example: 
 So you call a male professor “el profesor,” and a female one, “la profesora.”
 
 You call a male cat “el gato,” and a female one, “la gata.”
@@ -229,4 +230,6 @@ So let’s start by going through each of the six different subjects with the fo
 <hr>
 <h4><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h4>
 <p></p>
-
+<p>
+  <a style="float:left;" href="practice.html" class="btn2">Go To Exercises</a>
+  </p>
