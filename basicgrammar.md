@@ -59,7 +59,7 @@ Words ending in “umbre”
  <li>La pesadumbre (sorrow)</li>
  <li>La lumbre (fire)</li>
  <p></p>
- <h5><p style="color:orange;" Now we will have a look at masculine endings...</p></h5>
+ <h5><p style="color:orange;">Now we will have a look at masculine endings...</p></h5>
  
  <em>The “El” Words (Masculine)</em>
 <p></p>
@@ -95,6 +95,6 @@ Words that end in consonants (except “d,” “z” and the “ión” family)
  <li>El corazón (heart)</li>
  </ul>
  <p></p>
- <h5><p style="color:orange;" This is the complete summary of all the gender articles and endings you need to know. To practice your endings complete the exercises below. The only way to learn is to keep on practising 👍 </p></h5>
+ <h5><p style="color:orange;">This is the complete summary of all the gender articles and endings you need to know. To practice your endings complete the exercises below. The only way to learn is to keep on practising 👍 </p></h5>
  <hr>
  
