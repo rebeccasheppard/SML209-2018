@@ -1,6 +1,7 @@
 
 
-<h2><p style="color:orange;">Where is the Spanish language spoken?</p></h2>
+<h2><p style="color:orange;">
+  style="border:2px solid Tomato;">Where is the Spanish language spoken?</p></h2>
 <p></p>
 
 
@@ -43,7 +44,8 @@ Listed below are the 21 countries:
 
 <p></p>
 <hr>
-
+<h4>Here is an extra informative video showing a broad summary of Spanish culture, click the play button on the video to watch it</h4>
+<p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtW7nN6ZAIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
