@@ -174,7 +174,6 @@ So let’s start by going through each of the six different subjects with the fo
     <td>Parten</td>
  </tr>
 </table>
-<hr>
  
 <p></p>
 <h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
@@ -187,4 +186,4 @@ So let’s start by going through each of the six different subjects with the fo
 <p>
   <a style="float:left;" href="practice.html" class="btn2">Go To Exercises</a>
   </p>
-<hr>
+
