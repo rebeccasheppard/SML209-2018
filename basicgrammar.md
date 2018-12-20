@@ -174,55 +174,14 @@ So let’s start by going through each of the six different subjects with the fo
     <td>Parten</td>
  </tr>
 </table>
-
+<hr>
+ <p>
+  <a style="float:left;" href="past-tense.html" class="btn2">Click here for the past tense verb table</a>
+  </p>
 
 <p></p>
 <h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
-<p></p>
-<body>
-<table style="width:100%">
-  <tr>
-   <th>Pronouns</th>
-    <th>AR VERBS</th>
-    <th>ER VERBS</th> 
-    <th>IR VERBS</th>
-  </tr>
-  <tr>
-    <td>Yo</td>
-    <td>étd> 
-    <td>í</td>
-   <td>í</td>
-  </tr>
-  <tr>
-    <td>Tú</td>
-    <td>aste</td> 
-    <td>iste</td>
-   <td>iste</td>
-  </tr>
- <tr>
-  <td>Él/Ella</td>
-  <td>ó</td>
-  <td>ió</td>
-  <td>ió</td>
- </tr>
- <tr>
-  <td>Nosotros</td>
-  <td>amos</td>
-  <td>imos</td>
-  <td>imos</td>
- </tr>
- <tr>
-  <td>Vosotros</td>
-  <td>asteis</td>
-  <td>isteis</td>
-  <td>isteis</td>
- </tr>
- <tr>
-  <td>Ellos</td>
-  <td>aron</td>
-  <td>ieron</td>
-  <td>ieron</td>
-  <div style="clear:both;"> </div>
+
  <p></p>
 <h4><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h4>
    <div style="clear:both;"> </div>
