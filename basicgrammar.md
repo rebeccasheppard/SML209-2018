@@ -221,11 +221,11 @@ So let’s start by going through each of the six different subjects with the fo
   <td>Ellos</td>
   <td>aron</td>
   <td>ieron</td>
-  <td>ieron</td> </tr>
- </table>
+  <td>ieron</td>
   <div style="clear:both;"> </div>
  <p></p>
 <h4><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h4>
+   <div style="clear:both;"> </div>
 <p>
   <a style="float:left;" href="practice.html" class="btn2">Go To Exercises</a>
   </p>
