@@ -13,14 +13,14 @@ I will now show a step to step guide of how to match the right 'gender article' 
 So you call a male professor “el profesor,” and a female one, “la profesora.”
 
 You call a male cat “el gato,” and a female one, “la gata.”
-
+<p></p>
 However, when looking at words such as 'el libro' the book or 'la manzana' the apple, it may be difficult for beginners to understand how to match the correct article because in English gender articles are not used.
-
+<p></p>
 Therefore a common method, such as the one shown below, is used:
 By looking at the word endings, it makes it easier for language learners to use the correct gender for different words.
-
+<p></p>
 <em>The “La” Words (Feminine)</em>
-
+<p></p>
 Words that end in “a,” “d,” “z,” “ión” and “umbre” are usually feminine.
 <p></p>
 Words ending in “a“
@@ -59,7 +59,7 @@ Words ending in “umbre”
  <li>La pesadumbre (sorrow)</li>
  <li>La lumbre (fire)</li>
  <p></p>
- <h5><p style="color:orange;">Now we will have a look at masculine endings...</p></h5>
+ <h4><p style="color:orange;">Now we will have a look at masculine endings...</p></h4>
  
  <em>The “El” Words (Masculine)</em>
 <p></p>
@@ -95,6 +95,7 @@ Words that end in consonants (except “d,” “z” and the “ión” family)
  <li>El corazón (heart)</li>
  </ul>
  <p></p>
+ </p>
  <h5><p style="color:orange;">This is the complete summary of all the gender articles and endings you need to know. To practice your endings complete the exercises below. The only way to learn is to keep on practising 👍 </p></h5>
  <hr>
  
