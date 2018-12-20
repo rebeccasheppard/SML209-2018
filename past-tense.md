@@ -46,5 +46,5 @@
   </tr>
   </table>
   <p>
-  <a style="float:left;" href="vocabulary.html" class="btn2">Click to go Back to grammar page</a>
+  <a style="float:left;" href="vocabulary.html" class="btn2">Go back</a>
   </p>
