@@ -44,8 +44,7 @@ Listed below are the 21 countries:
 <p></p>
 <hr>
 
-<embed width="620" height="615" src="https://www.youtube.com/watch?v=GtW7nN6ZAIc">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtW7nN6ZAIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <p lang="es"> Hola.Me llamo Rebecca. Me gusta viajar. Este año, Fui a Chipre y España con mis amigas. Lo pasamos un buen tiempo, comimos comida buenísima y pasamos mucho tiempo a la playa.</p>
