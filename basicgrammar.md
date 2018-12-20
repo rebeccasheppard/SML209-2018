@@ -127,7 +127,7 @@ So let’s start by going through each of the six different subjects with the fo
 <li>correr (to run)</li>
 <li>partir (to leave)</li>
 </ul>
-<p lang="es"
+<p lang="es"</p>
 <table style="width:100%">
   <tr>
     <th>Pronouns</th>
@@ -137,35 +137,39 @@ So let’s start by going through each of the six different subjects with the fo
   </tr>
   <tr>
     <td>Yo (I)</td>
-    <td>Tú (You singular)</td> 
-    <td>Él/Ella (He/she/it)</td>
-   <td>Nosotros (We)</td>
-   <td>Vosotros (You plural) </td>
-   <td>Ellos/Ellas (They) </td>
+    <td>Hablo</td> 
+    <td>Corro</td>
+   <td>Parto</td>
   </tr>
   <tr>
-    <td>Hablo</td>
+    <td>Tú (You singular)</td>
     <td>Hablas</td> 
-    <td>Habla</td>
-   <td>Hablamos</td>
-   <td>Habláis</td>
-   <td>Hablan</td>
+    <td>Corres</td>
+   <td>Partes</td>
   </tr>
  <tr>
-  <td>Corro</td>
-  <td>Corres</td>
+  <td>Él/Ella (He/she/it)</td>
+  <td>Habla</td>
   <td>Corre</td>
-  <td>Corremos</td>
-  <td>Corréis</td>
-  <td>Corren</td>
+  <td>Parte</td>
  </tr>
  <tr>
-  <td>Parto</td>
-  <td>Partes</td>
-  <td>Parte</td>
+  <td>Nosotros (We)</td>
+  <td>Hablamos</td>
+  <td>Corrimos</td>
   <td>Partimos</td>
-  <td>Partís</td>
-  <td>Parten</td>
+ </tr>
+ <tr>
+  <td>Vosotros (You plural)</td>
+  <td>Habláis</td>
+  <td>Corréis</td>
+  <td>Partéis</td>
+ </tr>
+   <tr>
+    <td>Ellos/Ellas</td>
+    <td>Hablan</td>
+    <td>Corren</td>
+    <td>Parten</td>
  </tr>
 </table>
 <h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
@@ -179,34 +183,38 @@ So let’s start by going through each of the six different subjects with the fo
   </tr>
   <tr>
     <td>Yo</td>
-    <td>Tú</td> 
-    <td>Él/Ella</td>
-   <td>Nosotros</td>
-   <td>Vosotros</td>
-   <td>Ellos/Ellas</td>
+    <td>étd> 
+    <td>í</td>
+   <td>í</td>
   </tr>
   <tr>
-    <td>é</td>
+    <td>Tú</td>
     <td>aste</td> 
-    <td>ó</td>
-   <td>amos</td>
-   <td>asteis</td>
-   <td>aron</td>
+    <td>iste</td>
+   <td>iste</td>
   </tr>
  <tr>
-  <td>í</td>
-  <td>iste</td>
+  <td>Él/Ella</td>
+  <td>ó</td>
   <td>ió</td>
-  <td>imos</td>
-  <td>isteis</td>
-  <td>ieron</td>
+  <td>ió</td>
  </tr>
  <tr>
-  <td>í</td>
-  <td>iste</td>
-  <td>ió</td>
+  <td>Nosotros</td>
+  <td>amos</td>
   <td>imos</td>
+  <td>imos</td>
+ </tr>
+ <tr>
+  <td>Vosotros</td>
+  <td>asteis</td>
   <td>isteis</td>
+  <td>isteis</td>
+ </tr>
+ <tr>
+  <td>Ellos</td>
+  <td>aron</td>
+  <td>ieron</td>
   <td>ieron</td>
  </tr>
 </table>
