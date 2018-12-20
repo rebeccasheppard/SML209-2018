@@ -102,3 +102,113 @@ Words that end in consonants (except “d,” “z” and the “ión” family)
  <hr>
  <p></p>
 <iframe src="https://h5p.org/h5p/embed/393548" width="1090" height="1318" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<h2><p style="color:orange;">Now continue scrolling to learn about Spanish verbs!</p></h2>
+<p></p>
+Basically, there are three. They are grouped according to their endings.
+<p></p>
+<em>We have the -ar, -er and -ir verbs. </em>
+ <p></p>
+ Check out some verbs from each category:
+<p></p>
+-ar: hablar, preguntar, trabajar, comprar, juntar
+<p></p>
+-er: correr, comprender, responder, vender, aprender
+<p></p>
+-ir: partir, existir, vivir, permitir, decidir
+<p></p>
+All of the verbs above are in their purest state (called the “infinitive”). Infinitives in English start with the word “to” (to jump, to run, to understand, etc.).
+<p></p>
+Remember “-ar,” “-er” and “-ir” because these are the letters that get dropped from the verb when we start conjugating.
+<p></p>
+So let’s start by going through each of the six different subjects with the following three verbs as examples:
+<p></p>
+<ul>
+ <li>hablar (to speak)</li>
+<li>correr (to run)</li>
+<li>partir (to leave)</li>
+</ul>
+<p lang="es"
+<table style="width:100%">
+  <tr>
+    <th>Pronouns</th>
+    <th>Hablar [AR verbs]</th> 
+    <th>Correr [ER verbs]</th>
+   <th>Partir [IR verbs]</th>
+  </tr>
+  <tr>
+    <td>Yo (I)</td>
+    <td>Tú (You singular)</td> 
+    <td>Él/Ella (He/she/it)</td>
+   <td>Nosotros (We)</td>
+   <td>Vosotros (You plural) </td>
+   <td>Ellos/Ellas (They) </td>
+  </tr>
+  <tr>
+    <td>Hablo</td>
+    <td>Hablas</td> 
+    <td>Habla</td>
+   <td>Hablamos</td>
+   <td>Habláis</td>
+   <td>Hablan</td>
+  </tr>
+ <tr>
+  <td>Corro</td>
+  <td>Corres</td>
+  <td>Corre</td>
+  <td>Corremos</td>
+  <td>Corréis</td>
+  <td>Corren</td>
+ </tr>
+ <tr>
+  <td>Parto</td>
+  <td>Partes</td>
+  <td>Parte</td>
+  <td>Partimos</td>
+  <td>Partís</td>
+  <td>Parten</td>
+ </tr>
+</table>
+<h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
+<p lang="es"
+<table style="width:100%">
+  <tr>
+   <th>Pronouns</th>
+    <th>AR VERBS</th>
+    <th>ER VERBS</th> 
+    <th>IR VERBS</th>
+  </tr>
+  <tr>
+    <td>Yo</td>
+    <td>Tú</td> 
+    <td>Él/Ella</td>
+   <td>Nosotros</td>
+   <td>Vosotros</td>
+   <td>Ellos/Ellas</td>
+  </tr>
+  <tr>
+    <td>é</td>
+    <td>aste</td> 
+    <td>ó</td>
+   <td>amos</td>
+   <td>asteis</td>
+   <td>aron</td>
+  </tr>
+ <tr>
+  <td>í</td>
+  <td>iste</td>
+  <td>ió</td>
+  <td>imos</td>
+  <td>isteis</td>
+  <td>ieron</td>
+ </tr>
+ <tr>
+  <td>í</td>
+  <td>iste</td>
+  <td>ió</td>
+  <td>imos</td>
+  <td>isteis</td>
+  <td>ieron</td>
+ </tr>
+</table>
+<h2><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h2>
+*INSERT BUTTON TO EXERCISES*
