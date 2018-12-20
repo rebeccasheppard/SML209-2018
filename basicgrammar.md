@@ -175,13 +175,12 @@ So let’s start by going through each of the six different subjects with the fo
  </tr>
 </table>
 <hr>
- <p>
-  <a style="float:left;" href="past-tense.html" class="btn2">Click here for the past tense verb table</a>
-  </p>
-
+ 
 <p></p>
 <h3><p style="color:orange;">Now we will look at the past tense endings...</p></h3>
-
+<p>
+  <a style="float:left;" href="past-tense.html" class="btn2">Click here for the past tense verb table</a>
+  </p>
  <p></p>
 <h4><p style="color:orange;">Now we have looked at both the present and past tenses... click on the button below to be directed to exercises on these tenses</p></h4>
    <div style="clear:both;"> </div>
