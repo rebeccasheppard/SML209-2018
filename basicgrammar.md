@@ -186,4 +186,5 @@ So let’s start by going through each of the six different subjects with the fo
   <a style="float:left;" href="practice.html" class="btn2">Go To Exercises</a>
   </p>
  <div style="clear:both;"> </div>
+ <br>
 <a href="#top">Top</a>
