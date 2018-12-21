@@ -1,4 +1,4 @@
-<h1> Practice </h1>
+<h1><p style="color:orange;">Practice</p></h1>
 <p lang="es">
   <p></p>
   <p></p>
