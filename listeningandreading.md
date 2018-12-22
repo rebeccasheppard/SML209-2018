@@ -20,3 +20,13 @@ Eres lyrics © Universal Music Publishing Group
 <h4><p style="color:orange;">Now click on the tabs below to see the Spanish lyrics in full and the English translation of the song 'Eres'</p></h4>
  <p></p>
 <iframe src="https://h5p.org/h5p/embed/394340" width="1090" height="138" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
+<h4><p style="color:orange;">Click on the play button on the audio tab below to listen to the pronunciation of the story in the Spanish language</p></h4>
+<p></p>
+<audio controls>
+ 
+  <source src="assets/css/test/TextTo.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+<h4><p style="color:red;">Hay una chica en una peluquería. Hoy la chica está bien. No está mal ni cansada. Le gusta mucho su nuevo pelo. La chica sale de la peluquería y dice, "Soy yo. Hasta Luego". La chica monta en bicicleta por la ciudad. A la chica le gusta montar su bicicleta. Es una bicicleta muy especial y bonita. Observa a dos chicas. A las dos chicas no les gusta la chica en la bici. Las dos chicas observan a la chica en la bicicleta. La chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "Soy yo" y toca la flauta para las dos chicas. A la chica le gusta tocar su flauta. A las dos chicas no les gusta la música. Las dos chicas salen de las esquina donde está la chica con la flauta y dicen, "Adios." La chica baila por la calle de la ciudad. La chica observa a unos chicos que juegan básquetbol y roba el balón de los chicos. La chica juega básquetbol. Los chicos observan a la chica. La chica no juega muy bien. La  chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "soy yo." La chica sale de la cancha de básquetbol y dice, "Hasta luego chicos." La temperatura en la ciudad es 95. A la chica le gusta el agua porque la temperatura en la ciudad es 95. La chica observa a unos chicos que bailan. A los chicos les gusta bailar. A la chica le gusta bailar. Los chicos no bailan y observan a la chica. La chica baila. La chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "Soy yo." La chica ve a su padre y corre a su padre. La chica dice, "soy yo" y está muy contenta.</p></h4>
+<br>
