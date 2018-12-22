@@ -1,1 +1,1 @@
-<h1><p style="color:orange;">English translation: story 2</p></h1>
+<h1><p style="color:orange;">English translation Story 2</p></h1>
