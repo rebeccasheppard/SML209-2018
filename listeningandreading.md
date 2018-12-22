@@ -33,8 +33,12 @@ Eres lyrics © Universal Music Publishing Group
 <h4><p style="color:#ff6666;"> A las dos chicas no les gusta la música. Las dos chicas salen de las esquina donde está la chica con la flauta y dicen, "Adios." La chica baila por la calle de la ciudad. La chica observa a unos chicos que juegan básquetbol y roba el balón de los chicos. La chica juega básquetbol. Los chicos observan a la chica. La chica no juega muy bien. </p></h4>
 
  <h4><p style="color:#ff6666;">La  chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "soy yo." La chica sale de la cancha de básquetbol y dice, "Hasta luego chicos." La temperatura en la ciudad es 95. A la chica le gusta el agua porque la temperatura en la ciudad es 95. La chica observa a unos chicos que bailan. A los chicos les gusta bailar. A la chica le gusta bailar. Los chicos no bailan y observan a la chica. La chica baila. La chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "Soy yo." La chica ve a su padre y corre a su padre. La chica dice, "soy yo" y está muy contenta.</p></h4>
-click here for link to English translation.
-<br>
+ <p>
+  <a style="float:left;" href="landr1.html" class="btn2">Click here for English translation</a>
+  </p>
+ <div style="clear:both;"> </div>
+ <br>
+
 <audio controls>
  
   <source src="assets/css/test/AbsoluteBegReading5-Aeropuerto1.mp3" type="audio/mpeg">
@@ -45,5 +49,10 @@ click here for link to English translation.
 <h4><p style="color:#ff6666;"> Él no tiene maletas para facturar, pero tiene una maleta de mano pequeña que llevará con él. El agente imprime su pase de abordaje. Los oficiales de seguridad del aeropuerto pasan junto a él con un perro grande. El perro está olfateando alrededor del equipaje de las personas tratando de detectar drogas o explosivos. Miguel se siente aliviado cuando ve que el perro pasa junto a él sin detenerse. </p></h4>
 
 <h4><p style="color:#ff6666;"> De repente, el perro se voltea y empieza a olfatear su maleta y ladra. El oficial de seguridad mira a Miguel. “Señor, por favor traiga su maleta y venga conmigo.”</p></h4>
-click here for English translation.
-<hr>
+<p>
+  <a style="float:left;" href="landr2.html" class="btn2">Click here for English translation</a>
+  </p>
+ <div style="clear:both;"> </div>
+ <br>
+<a href="#top">Top</a>
+
