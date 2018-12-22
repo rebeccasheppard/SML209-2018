@@ -13,5 +13,8 @@ Explore through audio stories and videos below and complete the following exerci
 Songwriters: Emmanuel Del Real Diaz / Enrique Rangel Arroyo / Isaac Ruben Albarran Ortega / Jose Alfredo Rangel Arroyo
 Eres lyrics © Universal Music Publishing Group
  <br>
- <iframe src="https://h5p.org/h5p/embed/394333" width="1090" height="1014" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- 
+<iframe src="https://h5p.org/h5p/embed/394333" width="1090" height="1154" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<h4><p style="color:orange;">Now click on the tabs below to see the Spanish lyrics in full and the English translation of the song 'Eres'</p></h4>
+ <p></p>
+ <iframe src="https://h5p.org/h5p/embed/394340" width="1090" height="138" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
