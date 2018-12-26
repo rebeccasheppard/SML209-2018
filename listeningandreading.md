@@ -56,6 +56,19 @@ Eres lyrics © Universal Music Publishing Group
   </p>
  <div style="clear:both;"> </div>
  <br>
+
+<audio controls>
+ 
+  <source src="assets/css/test/ AbsoluteBegReading1-Presentandose1.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+<h4><p style="color:#ff6666;">Presentándose</p></h4>
+<h4><p style="color:#ff6666;">¡Hola! Mi nombre es Ana. Tengo veinticinco años. Vivo en Miami, Florida con mi esposo y dos hijos. Tengo un hijo en kínder y una hija en primer grado. Ambos van a una escuela pública. Mi esposo es mecánico. Los fines de semana, él trabaja en un restaurante lavando platos. El restaurante usualmente tiene más clientes los fines de semana, entonces necesitan gente extra para lavar platos.</p></h4>
+ <p>
+  <a style="float:left;" href="landr3.html" class="btn2">Click here for English translation</a>
+  </p>
+ <div style="clear:both;"> </div>
+ <br>
  <a href="http://www.bbc.co.uk/languages/spanish/mividaloca/ep01/">Click here for an extra useful listening & reading resource</a>
  <br>
  <br>
