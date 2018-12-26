@@ -1,4 +1,4 @@
-<h1><p style="color:orange;"</p></h1>
+<h1><p style="color:orange;"> Basic vocabulary</p></h1>
 <p></p>
 <img class="imgLeft"
 src="https://baselang.com/wp-content/uploads/2016/08/spanish-vocabulary.jpg"
