@@ -49,8 +49,9 @@
   <p></p>
   <h4><p style="color:orange;">It must be noted that although the majority of verbs follow this system, there are quite a few irregular verbs</p></h4>
   <h4><p style="color:orange;">Click through the slides to see some examples of irregular verbs</p></h4>
-  <p></p>
   <iframe src="https://h5p.org/h5p/embed/393638" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+    <p></p>
+  <a href="https://www.fluentu.com/blog/spanish/most-common-irregular-spanish-verbs/">Click here for more examples of irregular Spanish verbs</a>
   <br>
   <p>
   <a style="float:left;" href="basicgrammar.html" class="btn2">Go back</a>
