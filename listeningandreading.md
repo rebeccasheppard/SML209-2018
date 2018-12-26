@@ -56,5 +56,6 @@ Eres lyrics © Universal Music Publishing Group
   </p>
  <div style="clear:both;"> </div>
  <br>
+ <a href="http://www.bbc.co.uk/languages/spanish/mividaloca/ep01/">Click here for an extra useful listening & reading resource</a>
 <a href="#top">Top</a>
 
