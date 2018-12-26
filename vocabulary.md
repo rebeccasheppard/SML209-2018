@@ -13,4 +13,9 @@ Explore through each topic and practice your vocabulary after using the set acti
 <br>
  <h4><p style="color:orange;">Now match the correct image to the colour in Spanish</p></h4>
  <iframe src="https://h5p.org/h5p/embed/395914" width="1090" height="875" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- 
+<br>
+<h4><p style="color:orange;">Watch this short video of numbers in Spanish from 1-20</p></h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C58QilFeKow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<iframe src="https://h5p.org/h5p/embed/395932" width="1090" height="1010" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
