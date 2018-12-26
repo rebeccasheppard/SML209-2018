@@ -28,6 +28,7 @@ Eres lyrics © Universal Music Publishing Group
   <source src="assets/css/test/TextTo.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<h4><p style="color:#ff6666;">Soy Yo</p></h4>
 <h4><p style="color:#ff6666;">Hay una chica en una peluquería. Hoy la chica está bien. No está mal ni cansada. Le gusta mucho su nuevo pelo. La chica sale de la peluquería y dice, "Soy yo. Hasta Luego". La chica monta en bicicleta por la ciudad. A la chica le gusta montar su bicicleta. Es una bicicleta muy especial y bonita. Observa a dos chicas. A las dos chicas no les gusta la chica en la bici. Las dos chicas observan a la chica en la bicicleta. La chica no se preocupa si no la aprueban. Cuando la critican, ella dice, "Soy yo" y toca la flauta para las dos chicas. A la chica le gusta tocar su flauta. </p></h4>
 
 <h4><p style="color:#ff6666;"> A las dos chicas no les gusta la música. Las dos chicas salen de las esquina donde está la chica con la flauta y dicen, "Adios." La chica baila por la calle de la ciudad. La chica observa a unos chicos que juegan básquetbol y roba el balón de los chicos. La chica juega básquetbol. Los chicos observan a la chica. La chica no juega muy bien. </p></h4>
@@ -44,6 +45,7 @@ Eres lyrics © Universal Music Publishing Group
   <source src="assets/css/test/AbsoluteBegReading5-Aeropuerto1.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<h4><p style="color:#ff6666;">En el aeropuerto</p></h4>
 <h4><p style="color:#ff6666;">Miguel está haciendo fila en el aeropuerto. Es su turno y camina hacia el mostrador. La mujer del mostrador le pide su documento de identificación (ID) y verifica los detalles de su vuelo. Sí, él está confirmado en el vuelo 103 desde los Ángeles hacia Hawái al mediodía. </p></h4>
 
 <h4><p style="color:#ff6666;"> Él no tiene maletas para facturar, pero tiene una maleta de mano pequeña que llevará con él. El agente imprime su pase de abordaje. Los oficiales de seguridad del aeropuerto pasan junto a él con un perro grande. El perro está olfateando alrededor del equipaje de las personas tratando de detectar drogas o explosivos. Miguel se siente aliviado cuando ve que el perro pasa junto a él sin detenerse. </p></h4>
