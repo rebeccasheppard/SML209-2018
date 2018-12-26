@@ -8,4 +8,9 @@ Vocabulary is a very important factor in regard to expanding your knowledge of a
 Explore through each topic and practice your vocabulary after using the set activities
 <div style="clear:both;"> </div>
  <h4><p style="color:orange;">Read through the presentation showing the different colours in Spanish... Then complete the matching game to test whether you have learnt the colours</p></h4>
+<br>
+<iframe src="https://h5p.org/h5p/embed/395898" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+ <h4><p style="color:orange;">Now match the correct image to the colour in Spanish</p></h4>
+ <iframe src="https://h5p.org/h5p/embed/395914" width="1090" height="875" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
