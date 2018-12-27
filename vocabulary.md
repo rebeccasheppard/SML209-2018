@@ -45,7 +45,7 @@ Explore through each topic and practice your vocabulary after using the set acti
   </p>
   <div style="clear:both;"> </div>
 <br>
-<h4><p style="color:orange;">Complete the quiz to test all the vocabulary you have learnt</p></h4>
+<h4><p style="color:orange;">Complete the quiz below, to test all the vocabulary you have studied</p></h4>
 <p></p>
 <br>
 <a href="#top">Top</a>
