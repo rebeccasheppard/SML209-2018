@@ -40,5 +40,12 @@ Explore through each topic and practice your vocabulary after using the set acti
 <iframe src="https://h5p.org/h5p/embed/396406" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
 <h4><p style="color:orange;">Ever curious about what the Spanish alphabet is like...? Click on the button below to direct yourself to a page dedicated to the Spanish alphabet</p></h4>
+<p>
+  <a style="float:left;" href="spanishalphabet.html" class="btn2">Go Back</a>
+  </p>
+  <div style="clear:both;"> </div>
+<br>
+<h4><p style="color:orange;">Complete the quiz to test all the vocabulary you have learnt</p></h4>
+<p></p>
 <br>
 <a href="#top">Top</a>
