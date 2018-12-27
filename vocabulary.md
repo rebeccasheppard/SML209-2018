@@ -35,4 +35,10 @@ Explore through each topic and practice your vocabulary after using the set acti
 <br>
 <h4><p style="color:orange;">Match the correct month to its English translation</p></h4>
 <iframe src="https://h5p.org/h5p/embed/396391" width="1090" height="741" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<h4><p style="color:orange;">Now let's look at seasons in Spanish</p></h4>
+<iframe src="https://h5p.org/h5p/embed/396406" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<h4><p style="color:orange;">Ever curious about what the Spanish alphabet is like...? Click on the button below to direct yourself to a page dedicated to the Spanish alphabet</p></h4>
+<br>
 <a href="#top">Top</a>
