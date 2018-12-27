@@ -41,7 +41,7 @@ Explore through each topic and practice your vocabulary after using the set acti
 <br>
 <h4><p style="color:orange;">Ever curious about what the Spanish alphabet is like...? Click on the button below to direct yourself to a page dedicated to the Spanish alphabet</p></h4>
 <p>
-  <a style="float:left;" href="spanishalphabet.html" class="btn2">Go Back</a>
+  <a style="float:left;" href="spanishalphabet.html" class="btn2">Go to page</a>
   </p>
   <div style="clear:both;"> </div>
 <br>
