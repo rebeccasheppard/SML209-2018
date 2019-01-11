@@ -70,7 +70,7 @@ Eres lyrics © Universal Music Publishing Group
   </p>
  <div style="clear:both;"> </div>
  <br>
- <h4><p style="color:orange;">Looking to extend your knowledge of more vocabulary and phrases? The link below provides further access to this</h4>
+ <h4><p style="color:orange;">Looking to extend your knowledge of more vocabulary and phrases?</h4>
  <a href="http://www.bbc.co.uk/languages/spanish/mividaloca/ep01/">Click here for an extra useful listening & reading resource</a>
  <br>
  <br>
