@@ -4,7 +4,8 @@
 src="https://comps.canstockphoto.com/bienvenida-hola-gracias-espana-vector-clipart_csp58948508.jpg" 
 alt="Image result for spanish phrases clipart">
      If you are planning to visit Spain soon or in the future, it is important to learn some key basic phrases to order food in restaurants or ask simple questions such as directions to tourist attractions.
-     <br>
+     <p></p>
+     <p></p>
      This page will teach you a selection of basic phrases. Scroll down to view a selection of tutorials and exercises.
 <div style="clear:both;"> </div>
  
